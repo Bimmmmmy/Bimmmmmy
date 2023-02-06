@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Jimmy Gomez</h1>
-<h3 align="center">A Full Stack Developer based in Sacramento</h3>
+<h3 align="center">A Full Stack Developer based in New York</h3>
 
 [![](https://visitcount.itsvg.in/api?id=brennantaylor98&icon=5&color=9)](https://visitcount.itsvg.in)
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Work in progress](Work in progress)
 
-- 📫 How to reach me **xenonxpo@gmail.com**
+- 📫 How to reach me **Jimmy.Gomez3399@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1CUJSQLRf-8DQgNs_Swr8g2pHZlJx-Glo/edit?usp=sharing&ouid=115643213634257744656&rtpof=true&sd=true)
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/xenon-santillan-b2148a24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xenon-santillan-b2148a24a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jimmyg23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xenon-santillan-b2148a24a" height="30" width="40" /></a>
 <a href="https://instagram.com/xensan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xensan" height="30" width="40" /></a>
 </p>
 
